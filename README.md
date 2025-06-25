@@ -17,6 +17,6 @@ I'm running this in a Python 3.11 conda environment.
 
 The github Actions workflow builds the webpage, prints it to pdf, and deploys to Github Pages.
 
-The webpage is [here](https://brikeats.github.io/resume/).
+The webpage is [here](https://sumit-mig.github.io/resume/).
 
-The pdf is [here](https://brikeats.github.io/resume/keating-resume.pdf).
+The pdf is [here](https://sumit-mig.github.io/resume/keating-resume.pdf).
