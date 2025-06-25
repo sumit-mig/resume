@@ -18,12 +18,12 @@
     ],
     "experience": [
         {
-            "title": "Chief Technical Officer",
-            "company": "Skintelligent",
+            "title": "Research Associate",
+            "company": "SPIRE Lab, IISc",
             "company_link": "https://skintelligentlab.com",
-            "start": "2021",
+            "start": "2023",
             "end": "present",
-            "location": "Atlanta, GA (remote from San Diego)",
+            "location": "IISc, Bengaluru, India",
             "duties": [
                 "Work with dermatologists to develop a suite of image analysis and deep learning solutions to assess skin health from cell phone photos.",
                 "Own the full machine learning stack: curate images, manage labeling, develop training pipelines, and validate clinical performance of five AI models.",
