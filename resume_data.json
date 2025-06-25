@@ -1,15 +1,15 @@
 {
     "name": {
-        "first_name": "Brian",
-        "last_name": "Keating",
-        "suffix": "Ph.D."    
+        "first_name": "Sumit",
+        "last_name": "Sharma",
+        "suffix": "M.Tech."    
     },
     "contact": {
-        "email": "brikeats@gmail.com"
+        "email": "sumit30194@gmail.com"
     },
     "social_media": {
-        "website": "https://brikeats.github.io",
-        "linkedin": "https://www.linkedin.com/in/brkeating/"
+        "website": "https://sumit-mig.github.io",
+        "linkedin": "https://www.linkedin.com/in/1sumitsharma/"
     },
     "summary": [
         " Computer vision engineer with more than ten years of experience analyzing medical images using both classical image processing and deep learning.",
