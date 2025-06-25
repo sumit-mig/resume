@@ -19,4 +19,4 @@ The github Actions workflow builds the webpage, prints it to pdf, and deploys to
 
 The webpage is [here](https://sumit-mig.github.io/resume/).
 
-The pdf is [here](https://sumit-mig.github.io/resume/keating-resume.pdf).
+The pdf is [here](https://sumit-mig.github.io/resume/sumit-resume.pdf).
